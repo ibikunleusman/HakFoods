@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405558129815",
+    "firebase_url": "https://hakfoods-13436.firebaseio.com",
+    "project_id": "hakfoods-13436",
+    "storage_bucket": "hakfoods-13436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405558129815:android:75e65b5fef6739b1",
+        "android_client_info": {
+          "package_name": "com.example.hakfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405558129815-2kpfb06kvtbcl41jmarvou7opq2got72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hakfoods",
+            "certificate_hash": "e7e8b04d7888b50cb77be47ecbd185de475c9c83"
+          }
+        },
+        {
+          "client_id": "405558129815-o11n2k4ckp878rp9vr4dierftilhkl4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2H6YLHAgol3Cxp9HK4X1R7r2KfEjR3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405558129815-o11n2k4ckp878rp9vr4dierftilhkl4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
